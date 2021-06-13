@@ -30,4 +30,8 @@ Repozitorijumi moraju biti javni na dan roka za završetak i komitovi su dozvolj
 U zavisnosti od broja prijavljenih studenata, tačna uputstva za predloge i upis ocena će biti objavljena naknadno.
 Ocene se skaliraju za jednu. Maksimalna ocena je 9.
 
+<h1> Termini odbrane - jun </h1>
+Obaveštavaju se studenti da će se odbrana projekata održati u sredu 16.6.2021. u NTP 324.
+Termine i predloge ocena koje studenti brane možete naći ovde. Prisustvo je obavezno.
+
 
